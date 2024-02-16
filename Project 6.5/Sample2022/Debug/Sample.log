@@ -1,0 +1,15 @@
+﻿  sample.cpp
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(266,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(267,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(268,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(269,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(273,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(274,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(275,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(276,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(415,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(416,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(430,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\sample.cpp(431,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\chans\OneDrive\Desktop\CS450\Project 6.5\Sample2022\Debug\Sample.exe

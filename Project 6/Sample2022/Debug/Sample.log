@@ -1,0 +1,43 @@
+﻿  sample.cpp
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(492,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(493,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(497,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1118,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1118,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1118,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1135,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1135,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1135,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1153,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1153,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1154,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 6\Sample2022\sample.cpp(1154,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+glslprogram.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+sample.obj : error LNK2005: "public: __thiscall GLSLProgram::GLSLProgram(void)" (??0GLSLProgram@@QAE@XZ) already defined in glslprogram.obj
+sample.obj : error LNK2005: "void __cdecl CheckGlErrors(char const *)" (?CheckGlErrors@@YAXPBD@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: bool __thiscall GLSLProgram::Create(char *,char *,char *,char *,char *,char *)" (?Create@GLSLProgram@@QAE_NPAD00000@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "private: bool __cdecl GLSLProgram::CreateHelper(char *,...)" (?CreateHelper@GLSLProgram@@AAA_NPADZZ) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::DisableVertexAttribArray(char const *)" (?DisableVertexAttribArray@GLSLProgram@@QAEXPBD@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::EnableVertexAttribArray(char const *)" (?EnableVertexAttribArray@GLSLProgram@@QAEXPBD@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "private: int __thiscall GLSLProgram::GetAttributeLocation(char *)" (?GetAttributeLocation@GLSLProgram@@AAEHPAD@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "private: int __thiscall GLSLProgram::GetUniformLocation(char *)" (?GetUniformLocation@GLSLProgram@@AAEHPAD@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::Init(void)" (?Init@GLSLProgram@@QAEXXZ) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: bool __thiscall GLSLProgram::IsExtensionSupported(char const *)" (?IsExtensionSupported@GLSLProgram@@QAE_NPBD@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: bool __thiscall GLSLProgram::IsNotValid(void)" (?IsNotValid@GLSLProgram@@QAE_NXZ) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: bool __thiscall GLSLProgram::IsValid(void)" (?IsValid@GLSLProgram@@QAE_NXZ) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::SetAttributePointer3fv(char *,float *)" (?SetAttributePointer3fv@GLSLProgram@@QAEXPADPAM@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::SetAttributeVariable(char *,float)" (?SetAttributeVariable@GLSLProgram@@QAEXPADM@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::SetAttributeVariable(char *,float,float,float)" (?SetAttributeVariable@GLSLProgram@@QAEXPADMMM@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::SetAttributeVariable(char *,float * const)" (?SetAttributeVariable@GLSLProgram@@QAEXPADQAM@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::SetUniformVariable(char *,int)" (?SetUniformVariable@GLSLProgram@@QAEXPADH@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::SetUniformVariable(char *,float)" (?SetUniformVariable@GLSLProgram@@QAEXPADM@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::SetUniformVariable(char *,float,float,float)" (?SetUniformVariable@GLSLProgram@@QAEXPADMMM@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::SetUniformVariable(char *,float * const)" (?SetUniformVariable@GLSLProgram@@QAEXPADQAM@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::SetVerbose(bool)" (?SetVerbose@GLSLProgram@@QAEX_N@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::UnUse(void)" (?UnUse@GLSLProgram@@QAEXXZ) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::Use(unsigned int)" (?Use@GLSLProgram@@QAEXI@Z) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::Use(void)" (?Use@GLSLProgram@@QAEXXZ) already defined in glslprogram.obj
+sample.obj : error LNK2005: "public: void __thiscall GLSLProgram::UseFixedFunction(void)" (?UseFixedFunction@GLSLProgram@@QAEXXZ) already defined in glslprogram.obj
+sample.obj : error LNK2005: "private: static int GLSLProgram::CurrentProgram" (?CurrentProgram@GLSLProgram@@0HA) already defined in glslprogram.obj
+sample.obj : error LNK2005: "struct GLshadertype * ShaderTypes" (?ShaderTypes@@3PAUGLshadertype@@A) already defined in glslprogram.obj
+.\Debug\Sample.exe : fatal error LNK1169: one or more multiply defined symbols found

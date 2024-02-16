@@ -1,0 +1,37 @@
+﻿  sample.cpp
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(485,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(486,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(490,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(531,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(532,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(539,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(551,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(553,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(559,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(567,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(575,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(577,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(583,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(585,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(591,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(593,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(599,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(601,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1231,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1231,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1232,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1232,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1238,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1253,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1258,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1263,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1268,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1273,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1278,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1283,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1377,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1392,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1407,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\sample.cpp(1422,23): warning C4305: '=': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\chans\OneDrive\Desktop\CS450\Solar System\Sample2022\Debug\Sample.exe

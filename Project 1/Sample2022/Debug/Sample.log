@@ -1,0 +1,15 @@
+﻿  sample.cpp
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(899,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(900,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(902,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(904,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(906,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(908,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(910,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(912,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(914,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(916,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(919,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\sample.cpp(921,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\chans\OneDrive\Desktop\CS450\Project 1\Sample2022\Debug\Sample.exe

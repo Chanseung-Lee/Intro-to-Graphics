@@ -1,0 +1,52 @@
+﻿  sample.cpp
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(342,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(343,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(345,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(346,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(348,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(349,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(350,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(351,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(355,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(357,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(359,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(361,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(363,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(442,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(443,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(444,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(445,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(446,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(447,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(448,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(450,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(451,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(454,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(456,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(458,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(460,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(462,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(464,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(467,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(469,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(471,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(473,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(475,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(477,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(675,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(679,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(680,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(705,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(705,24): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1116,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1116,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1116,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1133,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1133,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1133,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1151,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1151,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1152,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\sample.cpp(1152,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\chans\OneDrive\Desktop\CS450\Project 4\Sample2022\Debug\Sample.exe

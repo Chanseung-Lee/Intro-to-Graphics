@@ -1,0 +1,18 @@
+﻿  sample.cpp
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(483,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(484,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(488,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(494,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(494,24): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1110,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1110,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1110,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1127,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1127,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1127,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1145,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1145,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1146,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\sample.cpp(1146,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\chans\OneDrive\Desktop\CS450\Project 5\Sample2022\Debug\Sample.exe

@@ -1,0 +1,4 @@
+
+ERROR: 0:35: '*' : syntax error syntax error
+
+
